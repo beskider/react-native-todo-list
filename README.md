@@ -3,7 +3,7 @@
 
 # React Native Todo List
 
-Simple React Natice app to manage todos.
+Simple React Native app to manage todos.
 
 ## Technologies and libraries
 
@@ -20,7 +20,7 @@ Simple React Natice app to manage todos.
 
 # React Native Todo List
 
-Oparta na bibliotece React Natice aplikacja do zarządzania zadaniami do wykonania.
+Oparta na React Natice aplikacja do zarządzania prostymi zadaniami.
 
 ## Technologie i biblioteki
 
